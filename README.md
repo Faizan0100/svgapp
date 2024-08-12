@@ -17,8 +17,8 @@ The Image to SVG Converter is a powerful Streamlit application that allows users
 
 1. Clone this repository:
    ```
-   git clone https://github.com/Faizan0100/svgenius.git
-   cd svgenius
+   git clone https://github.com/Faizan0100/svgapp.git
+   cd svgapp
    ```
 
 2. Install the required dependencies:
