@@ -1,4 +1,4 @@
-diffusers=
+diffusers
 numpy
 opencv-python
 opencv-python-headless
