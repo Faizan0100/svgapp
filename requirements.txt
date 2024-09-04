@@ -1,12 +1,6 @@
-diffusers
 numpy
-opencv-python
-opencv-python-headless
-Pillow
-potracer
-streamlit
-torch
-transformers
-torchvision
-scikit-image
-accelerate
+opencv-python==4.10.0.84
+opencv-python-headless==4.10.0.84
+Pillow==10.4.0
+potracer==0.0.4
+streamlit==1.36.0
